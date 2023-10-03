@@ -2,7 +2,7 @@
 
 ## Descripción general
 
-![Vista previa](./img/design.png)
+![Vista previa](./design/green-project-design.png)
 
 Página web creada en JavaScript. 
 
