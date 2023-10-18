@@ -11,7 +11,7 @@ Observación: Al hacer click en los botones de colores de la izquierda cambia la
 
 ### Las principales herramientas y tecnologías utilizadas incluyeron:
 
-- HTML5
+- HTML
 - CSS
 - JavaScript  
 
